@@ -20,6 +20,8 @@ There are countless ways to automate your Windows PC. This project includes my f
   * Click 'OK' to save changes
 2. Now you can start running [clean-temporary-files.bat](Batch/clean-temporary-files.bat). It will use the Disk Cleanup settings you specified in step 1.
 
+---
+
 ### Network Device Changes/Media Availability
 
 [**device-online-plex**](Batch/device-online-plex.bat): Checks to see if the PlayStation 5 is online on the network and starts Plex Media Server (if it isn't already running).<br />
@@ -31,6 +33,8 @@ There are countless ways to automate your Windows PC. This project includes my f
 [**check-for-shared-files**](https://github.com/arcadespinner/scheduled-tasks/blob/main/Batch/check-for-shared-files.bat): Checks if any files exist on a shared (or any) path you specify and opens explorer pointed to that path if true.
 **How to Use**:
 * Change [`SHARED_DIR`](https://github.com/arcadespinner/scheduled-tasks/blob/aa74a4c5d98cd11ad5229d724687a0d31994b251/Batch/check-for-shared-files.bat#L4) to the (shared) folder you wish to monitor for your needs.
+
+---
 
 ### Back Up
 
