@@ -4,6 +4,9 @@ Scripts that are great candidates for running with your PC's Task Scheduler!
 ## About The Project
 There are countless ways to automate your Windows PC. This project includes my favorite BAT/PowerShell scripts which helps make life a lot easier. Some of them can be used as is whereas others may need to be modified for your needs.
 
+Here's a video tutorial showing how to configure and run these tasks using Task Scheduler:<br />
+[![Task Scheduler Tutorial](https://i.ytimg.com/vi/k5ne8iJVf44/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfPNKE-sGx6Pk0Fj470ru0jqrwCg)](https://t.co/y6GicTmyy3 "Task Scheduler: Make Your PC Work For You")
+
 ## Scripts
 
 ### Organization/Cleaning
